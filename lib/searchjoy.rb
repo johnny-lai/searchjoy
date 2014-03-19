@@ -1,6 +1,6 @@
 require "searchjoy/search"
 require "searchjoy/track"
-require "searchjoy/engine"
+#require "searchjoy/engine"
 require "searchjoy/version"
 
 require "chartkick"
